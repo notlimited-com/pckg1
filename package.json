@@ -1,0 +1,19 @@
+{
+  "name": "pckg1",
+  "version": "0.0.1",
+  "description": "describe your module here",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:notlimited-com/pckg1.git"
+  },
+  "author": "Mark Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notlimited-com/pckg1/issues"
+  },
+  "homepage": "http://notlimited-com.github.io/pckg1"
+}
